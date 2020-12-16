@@ -1,0 +1,114 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Bangarang",
+  "_songSubName": "",
+  "_songAuthorName": "Skrillex",
+  "_levelAuthorName": "MonsterWook and Fvrwvrd",
+  "_beatsPerMinute": 220,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.06794026494026184,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_difficultyLabel": "Fvrwvrd's Banger",
+            "_envColorLeft": {
+              "r": 0.8285754323005676,
+              "g": 0.8285754323005676,
+              "b": 0.8285754323005676
+            },
+            "_envColorRight": {
+              "r": 0.921550452709198,
+              "g": 0,
+              "b": 0.004421539604663849
+            },
+            "_obstacleColor": {
+              "r": 0.4396960735321045,
+              "g": 0.8946310877799988,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.7590065598487854,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 0.23985528945922852,
+              "g": 0.8143743276596069,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": -0.1599999964237213,
+          "_customData": {
+            "_difficultyLabel": "MonsterWook's Throwback",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_envColorRight": {
+              "r": 0.921550452709198,
+              "g": 0,
+              "b": 0.00442110002040863
+            },
+            "_envColorLeft": {
+              "r": 0.8285754323005676,
+              "g": 0.8285754323005676,
+              "b": 0.8285754323005676
+            },
+            "_obstacleColor": {
+              "r": 0.4396960735321045,
+              "g": 0.8946309685707092,
+              "b": 1
+            },
+            "_envColorLeftBoost": {
+              "r": 1,
+              "g": 0.7590067982673645,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 0.23985528945922852,
+              "g": 0.8143740892410278,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

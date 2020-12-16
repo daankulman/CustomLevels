@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Where's the lamb sauce",
+  "_songSubName": "",
+  "_songAuthorName": "Gordon Ramsay",
+  "_levelAuthorName": "Halcyon12",
+  "_beatsPerMinute": 169.42059326171875,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 8.781768798828125,
+  "_previewDuration": 0.6969699859619141,
+  "_songFilename": "fuck.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "piece of shite",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

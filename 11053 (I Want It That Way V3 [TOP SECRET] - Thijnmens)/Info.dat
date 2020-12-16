@@ -1,0 +1,59 @@
+{
+  "_version": "2.0.0",
+  "_songName": "I Want It That Way V3 [TOP SECRET]",
+  "_songSubName": "",
+  "_songAuthorName": "Backstreet Boys",
+  "_levelAuthorName": "Thijnmens",
+  "_beatsPerMinute": 99,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 48.03030014038086,
+  "_previewDuration": 10,
+  "_songFilename": "Tangerine.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper & Lighter",
+        "_name": "Z-ANESaber",
+        "_iconPath": "icon.png"
+      }
+    ],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "ChroMapper": {
+        "version": "0.7.0"
+      },
+      "MMA2": {
+        "version": "4.5.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 13.899999618530273,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Noodle Extensions",
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

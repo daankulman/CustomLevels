@@ -1,0 +1,64 @@
+{
+  "_version": "2.0.0",
+  "_songName": "HOLIDAY",
+  "_songSubName": "",
+  "_songAuthorName": "Lil Nas X",
+  "_levelAuthorName": "LuxAce",
+  "_beatsPerMinute": 152,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.png",
+  "_songFilename": "song.egg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.300"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_colorLeft": {
+              "r": 0.965,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.851,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "_obstacleColor": {
+              "r": 0.913,
+              "g": 0.913,
+              "b": 0.913
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

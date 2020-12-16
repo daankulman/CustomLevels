@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Dragonborn (Malukah Edit)",
+  "_songSubName": "",
+  "_songAuthorName": "Headhunterz",
+  "_levelAuthorName": "Valveron",
+  "_beatsPerMinute": 150,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 247,
+  "_previewDuration": 25,
+  "_songFilename": "Headhunterz - Dragonborn (Malukah Edit).egg",
+  "_coverImageFilename": "headhunterz - dragonborn.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -110,
+            "_editorOldOffset": -110,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

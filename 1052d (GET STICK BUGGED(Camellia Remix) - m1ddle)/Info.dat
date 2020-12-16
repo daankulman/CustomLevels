@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "GET STICK BUGGED(Camellia Remix)",
+  "_songSubName": "",
+  "_songAuthorName": "Camellia",
+  "_levelAuthorName": "m1ddle",
+  "_beatsPerMinute": 225,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 3,
+  "_previewDuration": 10,
+  "_songFilename": "GET STICK BUGGED(Camellia Remix).egg",
+  "_coverImageFilename": "get diabarhabugged lol.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 24,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "get stick bugged lol",
+            "_editorOffset": 53,
+            "_editorOldOffset": 53,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
